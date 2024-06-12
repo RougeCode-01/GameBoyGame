@@ -1,0 +1,4272 @@
+fileFormatVersion: 2
+guid: da801c33886bbd944aa231a34b65c211
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 211
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df586b20bf8b4e84f956e81986887427
+      internalID: -261640055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 211
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e66a9dc534114782b78bb46c3ffcb
+      internalID: 1292551845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 211
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a990c64e8e8f134faf836c4792b6a1d
+      internalID: 827194254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 211
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31ca4501b8e33946ab4677aacda0e66
+      internalID: -1958539748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 182
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275923830eb71141be8e37b9d3aabec
+      internalID: 319460223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 161
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b2bc82337e6444c891017d6ad3d571
+      internalID: -1343424455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91714a8649bf99d479ce4466f39df654
+      internalID: -1991852099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4978316afba39b4784c952df821f475
+      internalID: 571867445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885b0af469574e744aedd31ca4b64a4b
+      internalID: -1696738160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 185
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60be3d2c86b6b74abc37ee27de4314a
+      internalID: -781123115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 162
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1638dc443de164b85d3dfae63b1d0f
+      internalID: -200183729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 161
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5865d41f5e1398d478cf32d7003d2800
+      internalID: -525826761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 161
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc667d6204ad8848a89742c4caf7296
+      internalID: 150827906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 161
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37755c78b43696c42925b8a6d7ef5249
+      internalID: 1653640859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 185
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20759d78749c870489ae3f0fb955df70
+      internalID: 1625666358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 182
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6f22f1ee1bf5478d0b613c2bee713
+      internalID: 1702843321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 161
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21d624fedaed7e47b5a94f7da1d7136
+      internalID: 1364014148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 168
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43eb5411bef54344ad9c0cf20f2acab
+      internalID: 144453460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 72
+        width: 76
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb04ffeede4ac6a41bbb849f815f7a98
+      internalID: 37130238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 176
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480650d26e33734ca7fb7915b7aba3e
+      internalID: -360629825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 179
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da7bf5d4f3b46f4399a12f5f66ff8e4
+      internalID: 849309202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c6d8d4cfff01409f83ac372251c8e
+      internalID: -2128604612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 175
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a16b5ed09444d4b807599d2e63d784
+      internalID: -688160514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 161
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d13fe166d0ae845b3346b5faf7bc74
+      internalID: -796725765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 161
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6e9c57195c4ce408b7757a7b19f7ef
+      internalID: 2110430388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 165
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ad33dbc2978e468fec4190069b970
+      internalID: 1494002425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 171
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7568a7c5a90a154bb2e333d9541c471
+      internalID: 151469577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69cd4dd15c1f86499d5fcbf1b021f77
+      internalID: -583391865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 167
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8527916cac2a93b4698fb2e3ac3a60d7
+      internalID: 1717427750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 161
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09328b1a997fa147842fba789928fc9
+      internalID: -2024596094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 150
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f297a26e59a6d754abd09e44aabe6ac7
+      internalID: 212614878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17be3ea9f64883643a659a6e60cc67d8
+      internalID: -1468832909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d2ccf9f2aa1d44ca78d6bd82151f52
+      internalID: 1958540208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 129
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd362166884af6c4d84b76916fbf63ad
+      internalID: 881420444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5236b405639ad624cae4ab79a3fa3ff9
+      internalID: 2132103201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 153
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174dd3d2d9798264fbb36b9cbf7e2638
+      internalID: 1633953384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 129
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e1ac7af771ed44fa1d0a8585a44a9b
+      internalID: 288480143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 130
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf00f826f8bce1f409ee78f25b8282eb
+      internalID: -918620610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babf5fe09b4ca414aa4ba7ad5db9875a
+      internalID: 1132387185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 129
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb53c740332f8e448acfd356d4f4ff9
+      internalID: -2097235178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 151
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a3259b7c80ec4192b2d672b8f3cb9
+      internalID: -171882611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 144
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2aef6ba6d7ae4b82c25cf676577ab
+      internalID: -1070215849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 129
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df676a10faa084347bc47176d81109b4
+      internalID: -896100040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d55aa85b237f247bf4d6ac1194a794
+      internalID: -667089872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 151
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86294b1c5cb554b4ea89cf912b09e475
+      internalID: 1973175401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 129
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b7c40868ae7014ea7ee5e403206068
+      internalID: 1344844506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8021d0c90f023c9448be05bd893736ca
+      internalID: 119760020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 147
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb05cda6a8eec4dbde50e2266db206
+      internalID: -1576694222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 143
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18523e912fb1984b982bc718936891a
+      internalID: 851748548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 143
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7023df9c92426b74d95f9b288a14717f
+      internalID: -1273628989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 133
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e028b9c46587d4799bab8a85921d79
+      internalID: 844846415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 139
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec0bcc54f4dc849af58eaa13cfe7a3
+      internalID: 686936819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 138
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e445c346e801d4a9ff4d094d360ce7
+      internalID: 1663584885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 137
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63424b8bb0b54904b9958b8d18d6f7cb
+      internalID: 1988409251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 137
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397b997f12250f741b0cb5fa60960a63
+      internalID: -355172827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 124
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d708caa5cdf956d489c212d8bee07af8
+      internalID: 1941371374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 130
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f94ebe69e01225488f98154cb9b5238
+      internalID: -1226841587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 130
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6893d134ec61c2442a3ddd1ec248c5db
+      internalID: 1172460566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 132
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3113cdd6d917c449d88f2ed6e15850
+      internalID: -1136623096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 121
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a851c12e56903047a0dd01eda7819e5
+      internalID: 1099241018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e4c1115c397a4184188b0fb32580f
+      internalID: 830553371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82f4f1f2cfbadc43876f015867f440b
+      internalID: 476680169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 97
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340b0500f53cd67499328f13929768d3
+      internalID: 1648016484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 97
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc1500f602b0274aa9e8b2851df37ef
+      internalID: 1749634131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 112
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f62d85bd0bfce749b4778aa0e0c73da
+      internalID: -964100913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d3e440596df35419c859065e11d3c3
+      internalID: 1051152734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 97
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6e31562cda667428ef5c41acdba405
+      internalID: -466028342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62188de632da54a418a6a1eeefc5d760
+      internalID: 1325158070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 97
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9ef886dfc5394691b8363f36fa1a7
+      internalID: 1513376642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 122
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd50a0d67136ca4f9308da33334abd7
+      internalID: 521108819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 97
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a616670d8466704e9d7d913b33167e8
+      internalID: -2131998616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36857f96d6f3821409f3c28506bf5946
+      internalID: 447862954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 98
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557b6518ce6444141988987caa4bdb3e
+      internalID: -389695806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 115
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91826b61995b34a994900bd12721e9
+      internalID: -1446518430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 116
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaa86eb46edd7c4d845c8ca59032da6
+      internalID: 2017467601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 107
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b645635da4f60409ea570ca8769897
+      internalID: 150937752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 107
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce3b2529abeb0148a21cbc00ab94205
+      internalID: 1634072424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 109
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75249cc29e802fd408bb02c477f60588
+      internalID: -1848970843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 110
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43f029b6dbd87043952d4cd4fa3609a
+      internalID: -159115351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da03f8ca86d15ea4192ca4aef0632c37
+      internalID: 1440623491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 102
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e826d24ff0f400146a0b6d3d6118a01d
+      internalID: -77040015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed186fd0cb9ba59469bad5dfd2c5df4b
+      internalID: -1274202119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 100
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe222b759d353274b997a979e06c78fb
+      internalID: 1368489243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 92
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742dda29da12364d89480450a9dbdf2
+      internalID: -882859837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 97
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1ac9adff538234e902ca0396379a79
+      internalID: 288777590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 89
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb665a85f23eb5e4aac1a029963f4cc6
+      internalID: -905312160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a705c0cdbc1bf4ba930d0c06f939a5
+      internalID: 1202868417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d9649c1149a2444bc2d379e18818d2
+      internalID: 488098468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 65
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc8daca98a01e44c8c8dd37c75ab48f
+      internalID: -893253104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcddafc89ecca44191724fc4edcac7a
+      internalID: 130084341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 80
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3378700f3be4344bd907304a2725e0
+      internalID: -608240394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202471712fd6bcb41878f0d537488454
+      internalID: -605158074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 65
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7016c0f3498c4c146bbc410e35538fd1
+      internalID: 1683010914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8f0ced7af8d184c84a8c7ecbb59c05
+      internalID: -1977762982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ef5e78a82a37e4b8646559b6cbc1b1
+      internalID: 1898105443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 90
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e66e94231d84348b7990c857270337
+      internalID: -586941745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 65
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a37508c36f25842a6afa603a3dbc85
+      internalID: -1388310225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c14ab7e140fc479fbfe4b6763dd71
+      internalID: -1789071739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 65
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa56b8252e6ea744a276d9ee34dba52
+      internalID: 364623181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caab1bc90ff1584b8fb596a43d403ff
+      internalID: -465633378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323ead0b0964d654fbfb4851abbb8f68
+      internalID: -235314050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2d1f855acd7e64798f6fe2e83047e0
+      internalID: -1180589663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 77
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7422e5bebf34e9749b2eb2595e6c457a
+      internalID: -992469408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 78
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b02851823e3e04e96a5e577e859741
+      internalID: 1543335607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 70
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42de595c67bc8004c9f6dabef7578693
+      internalID: -1696540911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 75
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d5b503ccb4fe14987c0af396f1f30d
+      internalID: -1544111896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 71
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc74cbc6b77684fb7c484a78ed3b62
+      internalID: 2064354141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7b31ebc2ed6fc4699dbaab2cc6b768
+      internalID: 167382383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 70
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f641ebee9b8ebd34088990f1229abd0d
+      internalID: 1929628680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fa94c621c2bdb4dbef01f0c991ab6a
+      internalID: -961420541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 65
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc709918155403c45992318c2510717c
+      internalID: 813748190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 65
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616da2a304c5d0d4aaa877113589baa1
+      internalID: -148706769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 33
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aea76cfe9489d44ba2c842469bdaf7e
+      internalID: 1434152933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41921826c3cc1c74f8e5933879190dbd
+      internalID: -989042820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 34
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04285ea6b340894eb609932e8de6da9
+      internalID: -2106665459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 34
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6275c9c0561dc64b98b4cdf69a29a66
+      internalID: 1302778503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b492a5f1e8da54498afbe182701f60a
+      internalID: -651111716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 56
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1757a3a5d7fbe264f86abc919b299c75
+      internalID: 1359594426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f021396ade2544acd9aaa817492a4
+      internalID: -275276045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 58
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a680aa57a98d86f479f77d732d27bb85
+      internalID: 1079960721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daea395aa0b92c4e98f460e57c8d3ea
+      internalID: 67689636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 57
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3011325d60fc048a975e152209abb4
+      internalID: 827116922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 24
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7797f4f03fa7bf446aca62f77b81d331
+      internalID: -1901825263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9d85e4a80a3da4088de0464d47a982
+      internalID: 910536955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 49
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5d0239a01a165448d401de38bbf4c3
+      internalID: -538618662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a62b43a4cc7fcb4db72d24e7af9b389
+      internalID: 1006237429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 50
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e9115c02421a48bbcb269133bc5ac
+      internalID: -1797278469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 53
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a910220bd7a3a645b1b35b23bd945e2
+      internalID: 1005006292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 51
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e8815413655f24ca3073deddff992e
+      internalID: -482142917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 36
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fd39129ca119447a0d9e6a075c7dfb
+      internalID: 574317329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 39
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9381aaa1de5199d48adaeabf18e4eec6
+      internalID: 155731905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 51
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc899c3cbdbf269489d40ffdbd2a9d68
+      internalID: -2095950793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03420ec819c64154e81c61af2ccf88ed
+      internalID: 1272326213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 47
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff142db1904fd04f84b0835952c469d
+      internalID: -1427273304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4929dc8bc552f24cb24e7a76d9424e8
+      internalID: -1536363337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 46
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da24002d0ca334d881a23f38ff84c1
+      internalID: -1557691779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 45
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4798db5288318d94da80291401a4bde3
+      internalID: -806629363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a576d5db2c62478b0ed2fdeed9628
+      internalID: -201628112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb62901780060214b9e459cb50a965f5
+      internalID: -1517670292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 37
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d0d82235291a4f9f22df0c1e99145
+      internalID: 1477969944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383c40088cbc47419667a2508d1ad8a
+      internalID: 1418045921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 39
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709471e7ed4727a48bb1e5e8c69a2374
+      internalID: -460419639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d604238bc938ee4faabfb3c676e945a
+      internalID: 1554820742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 39
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7377f46a02d176c4b95eb21ac858267f
+      internalID: 928978792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 32
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca9127adfdbc14bbde0609c4018874
+      internalID: 274655659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 34
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d93c793ec7aa6429e322ffa0839930
+      internalID: -1044496398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 33
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3989c25e8d65d41b32b163d7af8744
+      internalID: 1857037481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 33
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8cf3cfc9b293c4fb895eced2f20ea3
+      internalID: 1651960633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 33
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea47ebc247182047abaebc003705579
+      internalID: 1763569105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 25
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e124c8b04ad60714bae3181c9da5c907
+      internalID: 1350456196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af08efeb67dee9842af39ed448fe4037
+      internalID: 348674266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529e860f4bf0f1419581dde4881d3d6
+      internalID: 1619847163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338237c9f637a6440a2a5589078e2d7e
+      internalID: -1392922328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f42154e92ca511498ee80d1cc55ffc2
+      internalID: -723174484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc62ca5053daaf04c8a4b8494c961d69
+      internalID: 1721377102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97df29746659c149998aab3e22a6648
+      internalID: -226138199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370a0e17e11c2c34ea2a8ca7e74d025b
+      internalID: -607230431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d8814f2f31ad943b35872b63bab126
+      internalID: -959282446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0374b4e4f63a4b418693dc461ca61d7
+      internalID: -286541874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af31fc0e219485945832a8df01e83c6e
+      internalID: 348861937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803715a5fd9d4ea41827ea61c3fb3c0d
+      internalID: 1571969790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ca39a44fcdfae4c9332c5a7affa7ec
+      internalID: 1074407527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f770c1c9190be91438f42c010cb66f2c
+      internalID: 990414693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 10
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5905f99b9a2a574c8c1fb2dfeaa4014
+      internalID: 1286000827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7acc9bf590a8746b2f9754edc6c64c
+      internalID: -1789061146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 17
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e107ac2bc9bed4d9c0008865fefdbd
+      internalID: -2017367873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e199e6f7abeb5e246a73eddfcef9a052
+      internalID: -139404466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5921c841e31e618449f27e1aa4538039
+      internalID: 118347457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 19
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0152c7ec5c180d4790827d167ce034a
+      internalID: 1284530134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 17
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bb86fcfa5b37a4a92b5942296703dc
+      internalID: -718550115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031563fc439908649ad28afe5a1e64a8
+      internalID: 2139566364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 14
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afaec63a50987d4ab379b307fd9e366
+      internalID: -364043669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 16
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9c8af337baf2147a574878397cc959
+      internalID: 2093364993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07937e1b602f8194d9f79fe4e5f336b0
+      internalID: 1500938905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ce74fd77c3185439ac8518866939e8
+      internalID: 1474201458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 10
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708d4a7f6d78c994f9a5444a255cf9c9
+      internalID: 637966444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad079cd395504d488ce5072e3a5edc7
+      internalID: -1180962993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 14
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3ae1d4a2fa6b4e999e8744a01f335
+      internalID: 5175040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2def793590e06bf438239bd2853464ba
+      internalID: -1265250516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cdb21a3bb30534886c835ec6b83ec1
+      internalID: -1371382785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a14e35aeb38dd4d9c28310411dff8d
+      internalID: -2027731874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86070177de879f947bc5ed57a9a86d7a
+      internalID: -387897404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 6
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce0f8acfc91d784bae0d3ce1815cfdf
+      internalID: 1307420531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a539046831eab4291a38183854f74c
+      internalID: 1945870470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 8
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f795f6dfe189a8e4eb4b6bf53496e293
+      internalID: 64472072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8453b155606ec84488901acc36239073
+      internalID: -162215515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f6cf08e5508a24d90e909b64a1acac
+      internalID: 829204411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd9865461d58c145a7a21f73db914cc
+      internalID: -720291738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Vigilante_Free_SpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacbf7c40b93bf84a98ab4717e9dbf08
+      internalID: -1012011837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GB_Vigilante_Free_SpriteSheet_0: -261640055
+      GB_Vigilante_Free_SpriteSheet_1: 1292551845
+      GB_Vigilante_Free_SpriteSheet_10: -200183729
+      GB_Vigilante_Free_SpriteSheet_100: -235314050
+      GB_Vigilante_Free_SpriteSheet_101: -1180589663
+      GB_Vigilante_Free_SpriteSheet_102: -992469408
+      GB_Vigilante_Free_SpriteSheet_103: 1543335607
+      GB_Vigilante_Free_SpriteSheet_104: -1696540911
+      GB_Vigilante_Free_SpriteSheet_105: -1544111896
+      GB_Vigilante_Free_SpriteSheet_106: 2064354141
+      GB_Vigilante_Free_SpriteSheet_107: 167382383
+      GB_Vigilante_Free_SpriteSheet_108: 1929628680
+      GB_Vigilante_Free_SpriteSheet_109: -961420541
+      GB_Vigilante_Free_SpriteSheet_11: -525826761
+      GB_Vigilante_Free_SpriteSheet_110: 813748190
+      GB_Vigilante_Free_SpriteSheet_111: -148706769
+      GB_Vigilante_Free_SpriteSheet_112: 1434152933
+      GB_Vigilante_Free_SpriteSheet_113: -989042820
+      GB_Vigilante_Free_SpriteSheet_114: -2106665459
+      GB_Vigilante_Free_SpriteSheet_115: 1302778503
+      GB_Vigilante_Free_SpriteSheet_116: -651111716
+      GB_Vigilante_Free_SpriteSheet_117: 1359594426
+      GB_Vigilante_Free_SpriteSheet_118: -275276045
+      GB_Vigilante_Free_SpriteSheet_119: 1079960721
+      GB_Vigilante_Free_SpriteSheet_12: 150827906
+      GB_Vigilante_Free_SpriteSheet_120: 67689636
+      GB_Vigilante_Free_SpriteSheet_121: 827116922
+      GB_Vigilante_Free_SpriteSheet_122: -1901825263
+      GB_Vigilante_Free_SpriteSheet_123: 910536955
+      GB_Vigilante_Free_SpriteSheet_124: -538618662
+      GB_Vigilante_Free_SpriteSheet_125: 1006237429
+      GB_Vigilante_Free_SpriteSheet_126: -1797278469
+      GB_Vigilante_Free_SpriteSheet_127: 1005006292
+      GB_Vigilante_Free_SpriteSheet_128: -482142917
+      GB_Vigilante_Free_SpriteSheet_129: 574317329
+      GB_Vigilante_Free_SpriteSheet_13: 1653640859
+      GB_Vigilante_Free_SpriteSheet_130: 155731905
+      GB_Vigilante_Free_SpriteSheet_131: -2095950793
+      GB_Vigilante_Free_SpriteSheet_132: 1272326213
+      GB_Vigilante_Free_SpriteSheet_133: -1427273304
+      GB_Vigilante_Free_SpriteSheet_134: -1536363337
+      GB_Vigilante_Free_SpriteSheet_135: -1557691779
+      GB_Vigilante_Free_SpriteSheet_136: -806629363
+      GB_Vigilante_Free_SpriteSheet_137: -201628112
+      GB_Vigilante_Free_SpriteSheet_138: -1517670292
+      GB_Vigilante_Free_SpriteSheet_139: 1477969944
+      GB_Vigilante_Free_SpriteSheet_14: 1625666358
+      GB_Vigilante_Free_SpriteSheet_140: 1418045921
+      GB_Vigilante_Free_SpriteSheet_141: -460419639
+      GB_Vigilante_Free_SpriteSheet_142: 1554820742
+      GB_Vigilante_Free_SpriteSheet_143: 928978792
+      GB_Vigilante_Free_SpriteSheet_144: 274655659
+      GB_Vigilante_Free_SpriteSheet_145: -1044496398
+      GB_Vigilante_Free_SpriteSheet_146: 1857037481
+      GB_Vigilante_Free_SpriteSheet_147: 1651960633
+      GB_Vigilante_Free_SpriteSheet_148: 1763569105
+      GB_Vigilante_Free_SpriteSheet_149: 1350456196
+      GB_Vigilante_Free_SpriteSheet_15: 1702843321
+      GB_Vigilante_Free_SpriteSheet_150: 348674266
+      GB_Vigilante_Free_SpriteSheet_151: 1619847163
+      GB_Vigilante_Free_SpriteSheet_152: -1392922328
+      GB_Vigilante_Free_SpriteSheet_153: -723174484
+      GB_Vigilante_Free_SpriteSheet_154: 1721377102
+      GB_Vigilante_Free_SpriteSheet_155: -226138199
+      GB_Vigilante_Free_SpriteSheet_156: -607230431
+      GB_Vigilante_Free_SpriteSheet_157: -959282446
+      GB_Vigilante_Free_SpriteSheet_158: -286541874
+      GB_Vigilante_Free_SpriteSheet_159: 348861937
+      GB_Vigilante_Free_SpriteSheet_16: 1364014148
+      GB_Vigilante_Free_SpriteSheet_160: 1571969790
+      GB_Vigilante_Free_SpriteSheet_161: 1074407527
+      GB_Vigilante_Free_SpriteSheet_162: 990414693
+      GB_Vigilante_Free_SpriteSheet_163: 1286000827
+      GB_Vigilante_Free_SpriteSheet_164: -1789061146
+      GB_Vigilante_Free_SpriteSheet_165: -2017367873
+      GB_Vigilante_Free_SpriteSheet_166: -139404466
+      GB_Vigilante_Free_SpriteSheet_167: 118347457
+      GB_Vigilante_Free_SpriteSheet_168: 1284530134
+      GB_Vigilante_Free_SpriteSheet_169: -718550115
+      GB_Vigilante_Free_SpriteSheet_17: 144453460
+      GB_Vigilante_Free_SpriteSheet_170: 2139566364
+      GB_Vigilante_Free_SpriteSheet_171: -364043669
+      GB_Vigilante_Free_SpriteSheet_172: 2093364993
+      GB_Vigilante_Free_SpriteSheet_173: 1500938905
+      GB_Vigilante_Free_SpriteSheet_174: 1474201458
+      GB_Vigilante_Free_SpriteSheet_175: 637966444
+      GB_Vigilante_Free_SpriteSheet_176: -1180962993
+      GB_Vigilante_Free_SpriteSheet_177: 5175040
+      GB_Vigilante_Free_SpriteSheet_178: -1265250516
+      GB_Vigilante_Free_SpriteSheet_179: -1371382785
+      GB_Vigilante_Free_SpriteSheet_18: 37130238
+      GB_Vigilante_Free_SpriteSheet_180: -2027731874
+      GB_Vigilante_Free_SpriteSheet_181: -387897404
+      GB_Vigilante_Free_SpriteSheet_182: 1307420531
+      GB_Vigilante_Free_SpriteSheet_183: 1945870470
+      GB_Vigilante_Free_SpriteSheet_184: 64472072
+      GB_Vigilante_Free_SpriteSheet_185: -162215515
+      GB_Vigilante_Free_SpriteSheet_186: 829204411
+      GB_Vigilante_Free_SpriteSheet_187: -720291738
+      GB_Vigilante_Free_SpriteSheet_188: -1012011837
+      GB_Vigilante_Free_SpriteSheet_19: -360629825
+      GB_Vigilante_Free_SpriteSheet_2: 827194254
+      GB_Vigilante_Free_SpriteSheet_20: 849309202
+      GB_Vigilante_Free_SpriteSheet_21: -2128604612
+      GB_Vigilante_Free_SpriteSheet_22: -688160514
+      GB_Vigilante_Free_SpriteSheet_23: -796725765
+      GB_Vigilante_Free_SpriteSheet_24: 2110430388
+      GB_Vigilante_Free_SpriteSheet_25: 1494002425
+      GB_Vigilante_Free_SpriteSheet_26: 151469577
+      GB_Vigilante_Free_SpriteSheet_27: -583391865
+      GB_Vigilante_Free_SpriteSheet_28: 1717427750
+      GB_Vigilante_Free_SpriteSheet_29: -2024596094
+      GB_Vigilante_Free_SpriteSheet_3: -1958539748
+      GB_Vigilante_Free_SpriteSheet_30: 212614878
+      GB_Vigilante_Free_SpriteSheet_31: -1468832909
+      GB_Vigilante_Free_SpriteSheet_32: 1958540208
+      GB_Vigilante_Free_SpriteSheet_33: 881420444
+      GB_Vigilante_Free_SpriteSheet_34: 2132103201
+      GB_Vigilante_Free_SpriteSheet_35: 1633953384
+      GB_Vigilante_Free_SpriteSheet_36: 288480143
+      GB_Vigilante_Free_SpriteSheet_37: -918620610
+      GB_Vigilante_Free_SpriteSheet_38: 1132387185
+      GB_Vigilante_Free_SpriteSheet_39: -2097235178
+      GB_Vigilante_Free_SpriteSheet_4: 319460223
+      GB_Vigilante_Free_SpriteSheet_40: -171882611
+      GB_Vigilante_Free_SpriteSheet_41: -1070215849
+      GB_Vigilante_Free_SpriteSheet_42: -896100040
+      GB_Vigilante_Free_SpriteSheet_43: -667089872
+      GB_Vigilante_Free_SpriteSheet_44: 1973175401
+      GB_Vigilante_Free_SpriteSheet_45: 1344844506
+      GB_Vigilante_Free_SpriteSheet_46: 119760020
+      GB_Vigilante_Free_SpriteSheet_47: -1576694222
+      GB_Vigilante_Free_SpriteSheet_48: 851748548
+      GB_Vigilante_Free_SpriteSheet_49: -1273628989
+      GB_Vigilante_Free_SpriteSheet_5: -1343424455
+      GB_Vigilante_Free_SpriteSheet_50: 844846415
+      GB_Vigilante_Free_SpriteSheet_51: 686936819
+      GB_Vigilante_Free_SpriteSheet_52: 1663584885
+      GB_Vigilante_Free_SpriteSheet_53: 1988409251
+      GB_Vigilante_Free_SpriteSheet_54: -355172827
+      GB_Vigilante_Free_SpriteSheet_55: 1941371374
+      GB_Vigilante_Free_SpriteSheet_56: -1226841587
+      GB_Vigilante_Free_SpriteSheet_57: 1172460566
+      GB_Vigilante_Free_SpriteSheet_58: -1136623096
+      GB_Vigilante_Free_SpriteSheet_59: 1099241018
+      GB_Vigilante_Free_SpriteSheet_6: -1991852099
+      GB_Vigilante_Free_SpriteSheet_60: 830553371
+      GB_Vigilante_Free_SpriteSheet_61: 476680169
+      GB_Vigilante_Free_SpriteSheet_62: 1648016484
+      GB_Vigilante_Free_SpriteSheet_63: 1749634131
+      GB_Vigilante_Free_SpriteSheet_64: -964100913
+      GB_Vigilante_Free_SpriteSheet_65: 1051152734
+      GB_Vigilante_Free_SpriteSheet_66: -466028342
+      GB_Vigilante_Free_SpriteSheet_67: 1325158070
+      GB_Vigilante_Free_SpriteSheet_68: 1513376642
+      GB_Vigilante_Free_SpriteSheet_69: 521108819
+      GB_Vigilante_Free_SpriteSheet_7: 571867445
+      GB_Vigilante_Free_SpriteSheet_70: -2131998616
+      GB_Vigilante_Free_SpriteSheet_71: 447862954
+      GB_Vigilante_Free_SpriteSheet_72: -389695806
+      GB_Vigilante_Free_SpriteSheet_73: -1446518430
+      GB_Vigilante_Free_SpriteSheet_74: 2017467601
+      GB_Vigilante_Free_SpriteSheet_75: 150937752
+      GB_Vigilante_Free_SpriteSheet_76: 1634072424
+      GB_Vigilante_Free_SpriteSheet_77: -1848970843
+      GB_Vigilante_Free_SpriteSheet_78: -159115351
+      GB_Vigilante_Free_SpriteSheet_79: 1440623491
+      GB_Vigilante_Free_SpriteSheet_8: -1696738160
+      GB_Vigilante_Free_SpriteSheet_80: -77040015
+      GB_Vigilante_Free_SpriteSheet_81: -1274202119
+      GB_Vigilante_Free_SpriteSheet_82: 1368489243
+      GB_Vigilante_Free_SpriteSheet_83: -882859837
+      GB_Vigilante_Free_SpriteSheet_84: 288777590
+      GB_Vigilante_Free_SpriteSheet_85: -905312160
+      GB_Vigilante_Free_SpriteSheet_86: 1202868417
+      GB_Vigilante_Free_SpriteSheet_87: 488098468
+      GB_Vigilante_Free_SpriteSheet_88: -893253104
+      GB_Vigilante_Free_SpriteSheet_89: 130084341
+      GB_Vigilante_Free_SpriteSheet_9: -781123115
+      GB_Vigilante_Free_SpriteSheet_90: -608240394
+      GB_Vigilante_Free_SpriteSheet_91: -605158074
+      GB_Vigilante_Free_SpriteSheet_92: 1683010914
+      GB_Vigilante_Free_SpriteSheet_93: -1977762982
+      GB_Vigilante_Free_SpriteSheet_94: 1898105443
+      GB_Vigilante_Free_SpriteSheet_95: -586941745
+      GB_Vigilante_Free_SpriteSheet_96: -1388310225
+      GB_Vigilante_Free_SpriteSheet_97: -1789071739
+      GB_Vigilante_Free_SpriteSheet_98: 364623181
+      GB_Vigilante_Free_SpriteSheet_99: -465633378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
