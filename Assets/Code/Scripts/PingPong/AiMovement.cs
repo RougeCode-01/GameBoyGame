@@ -9,13 +9,11 @@ public class AiMovement : MonoBehaviour
 
     void Update()
     {
-        if (ball.position.x > transform.position.x)
-        {
-            transform.position = new Vector2(transform.position.x + speed * Time.deltaTime, transform.position.y);
-        }
-        else if (ball.position.x < transform.position.x)
-        {
-            transform.position = new Vector2(transform.position.x - speed * Time.deltaTime, transform.position.y);
-        }
+        // Calculate target position on the same y-axis as the AI paddle
+        float targetX = ball.position.x;
+
+        // Move AI towards the target x-position
+        Vector2 newPosition = new Vector2(targetX, transform.position.y);
+        transform.position = Vector2.MoveTowards(transform.position, newPosition, speed * Time.deltaTime);
     }
 }

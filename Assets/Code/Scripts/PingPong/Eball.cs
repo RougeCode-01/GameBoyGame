@@ -7,19 +7,19 @@ public class Eball : MonoBehaviour
 
     public float speed = 5.0f;
     private Rigidbody2D rb;
-    private Transform playerPaddle;
+    public Transform playerPaddle;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        playerPaddle = GameObject.FindGameObjectWithTag("PlayerPaddle").transform;
+ //       playerPaddle = GameObject.FindGameObjectWithTag("PlayerPaddle").transform;
         SpawnBall();
     }
 
     void SpawnBall()
     {
         // Spawn the ball on top of the player paddle
-        transform.position = new Vector2(playerPaddle.position.x, playerPaddle.position.y + 1);
+        transform.position = new Vector2(playerPaddle.position.x, playerPaddle.position.y + 0.1f);
         LaunchBall();
     }
 
