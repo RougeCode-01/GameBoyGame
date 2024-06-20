@@ -13,6 +13,7 @@ public class Ball : MonoBehaviour
     
     private void OnEnable()
     {
+        AudioManager.instance.PlaySFX("ShootingBall");
         _rb = GetComponent<Rigidbody2D>();
         _sartingPosition = transform.position;
         BallMovement();
@@ -58,6 +59,7 @@ public class Ball : MonoBehaviour
     
     private void OnCollisionEnter2D(Collision2D other)// Check if the ball collides with the player paddle
     {
+        AudioManager.instance.PlaySFX("BallBounces");
         if (other.gameObject.CompareTag("Wall") || other.gameObject.CompareTag("TopWall"))
         {
             RandomAngle();
