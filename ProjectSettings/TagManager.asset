@@ -11,6 +11,7 @@ TagManager:
   - Brick1
   - Brick2
   - Brick3
+  - Wall
   layers:
   - Default
   - TransparentFX
