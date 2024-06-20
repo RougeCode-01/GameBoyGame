@@ -9,7 +9,7 @@ public class MainMenu : MonoBehaviour
 {
     private GBConsoleController _gb;
 
-    private void Awake()
+    private void Start()
     {
         _gb = GBConsoleController.GetInstance();
     }
@@ -25,11 +25,11 @@ public class MainMenu : MonoBehaviour
 
     private void Update()
     {
-        if(_gb.Input.ButtonStartJustPressed)
+        if(_gb.Input.ButtonStart)
         {
             StartGame();
         }
-        if(_gb.Input.ButtonSelectJustPressed)
+        if(_gb.Input.ButtonSelect)
         {
             Quit();
         }
