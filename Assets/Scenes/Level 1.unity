@@ -1411,6 +1411,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ball
       objectReference: {fileID: 0}
+    - target: {fileID: 2657086364194750735, guid: eb7a737f00926f24ab85101330da552d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6217640050503591413, guid: eb7a737f00926f24ab85101330da552d, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7842312833684781239, guid: eb7a737f00926f24ab85101330da552d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1453,7 +1461,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9061079517784680206, guid: eb7a737f00926f24ab85101330da552d, type: 3}
       propertyPath: ballSpeed
-      value: 0.5
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1472,6 +1480,14 @@ PrefabInstance:
       propertyPath: ball
       value: 
       objectReference: {fileID: 1522624920}
+    - target: {fileID: 271272154876313037, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
+      propertyPath: useDynamicBounce
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1195242188618728153, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
+      propertyPath: m_FlipY
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1207341681417163385, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.004
@@ -1486,7 +1502,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1207341681417163385, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1207341681417163385, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
       propertyPath: m_LocalRotation.x
@@ -1498,7 +1514,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1207341681417163385, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1207341681417163385, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1510,11 +1526,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1207341681417163385, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -180
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3723650734792338256, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5637644701980754984, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87567425
+      objectReference: {fileID: 0}
+    - target: {fileID: 5637644701980754984, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5637644701980754984, guid: d51d2f7078df7b14db0c4a63e811a6b3, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.13056427
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1529,6 +1557,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3534346949348072454, guid: a8fbe158e4a52164bb567918cc98cf20, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4017510854676532751, guid: a8fbe158e4a52164bb567918cc98cf20, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
     - target: {fileID: 5548717395867074065, guid: a8fbe158e4a52164bb567918cc98cf20, type: 3}
       propertyPath: m_Name
       value: Walls
@@ -1572,6 +1608,10 @@ PrefabInstance:
     - target: {fileID: 7390391464496408567, guid: a8fbe158e4a52164bb567918cc98cf20, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8805888971983511094, guid: a8fbe158e4a52164bb567918cc98cf20, type: 3}
+      propertyPath: m_TagString
+      value: Wall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

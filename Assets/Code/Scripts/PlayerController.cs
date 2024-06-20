@@ -23,7 +23,7 @@ public class PlayerController : MonoBehaviour
     {
         _mainCamera = Camera.main;// Get the main camera
         _gb = GBConsoleController.GetInstance();// Get the GBConsoleController instance
-
+        
         // Calculate screen bounds based on camera size
         var spriteSize = GetComponent<SpriteRenderer>().bounds.size.x * 0.5f;
         var camHeight = _mainCamera.orthographicSize;
@@ -78,4 +78,5 @@ public class PlayerController : MonoBehaviour
     {
         ball.SetActive(true);
     }
+    
 }

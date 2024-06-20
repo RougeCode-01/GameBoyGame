@@ -437,7 +437,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &792725836
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -619,6 +619,11 @@ Transform:
 --- !u!1 &1120505912 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2657086364194750735, guid: eb7a737f00926f24ab85101330da552d, type: 3}
+  m_PrefabInstance: {fileID: 278575338}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1120505917 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7842312833684781239, guid: eb7a737f00926f24ab85101330da552d, type: 3}
   m_PrefabInstance: {fileID: 278575338}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1123011008
@@ -837,8 +842,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e9b5032718c5da46bfacf2761af2a4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  ball: {fileID: 611031267}
+  speed: 2
+  ball: {fileID: 1120505917}
 --- !u!61 &1387136274
 BoxCollider2D:
   m_ObjectHideFlags: 0
