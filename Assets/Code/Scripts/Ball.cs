@@ -29,13 +29,13 @@ public class Ball : MonoBehaviour
 
     public void BallMovement()
     {
-        //Starting the ball movement
-        float y = UnityEngine.Random.value < 0.5f ? -1f : 1f;
-        //Random side to side movement
-        float x = UnityEngine.Random.value < 0.5f ? UnityEngine.Random.Range(-1f, -0.5f)
-            : UnityEngine.Random.Range(0.5f, 1f);
+        // Get the player object
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+
+        // Calculate the direction from the ball to the player
+        Vector2 direction = (player.transform.position - transform.position).normalized;
+
         // Apply the initial force and set the current speed
-        Vector2 direction = new Vector2(x, y).normalized;
         _rb.AddForce(direction * ballSpeed, ForceMode2D.Impulse);
 
         // Set the current speed to the base speed
