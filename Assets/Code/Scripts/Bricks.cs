@@ -25,6 +25,7 @@ public class Bricks : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Ball"))
         {
+            AudioManager.instance.PlaySFX("BrickBreaks");
             bricksHealth--;
             if (bricksHealth == 0)
             {

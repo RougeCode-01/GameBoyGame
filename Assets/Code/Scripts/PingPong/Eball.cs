@@ -25,6 +25,7 @@ public class Eball : MonoBehaviour
 
     void LaunchBall()
     {
+        AudioManager.instance.PlaySFX("ShootingBall");
         float y = Random.Range(0, 2) == 0 ? -1 : 1;
         float x = Random.Range(-1f, 1f);
         Vector2 direction = new Vector2(x, y).normalized;
@@ -54,6 +55,7 @@ public class Eball : MonoBehaviour
         {
             // Bounce off the walls without changing the speed
             Vector2 direction = rb.velocity;
+            AudioManager.instance.PlaySFX("BallBounces");
             if (collision.contacts[0].normal.y != 0) // Horizontal walls
             {
                 direction.y = -direction.y;
