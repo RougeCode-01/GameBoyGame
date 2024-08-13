@@ -21,7 +21,6 @@ public class Ball : MonoBehaviour
 
     private void FixedUpdate()
     {
-        // Task 1
         ClampBallSpeed();
     }
 
@@ -35,11 +34,9 @@ public class Ball : MonoBehaviour
 
     public void BallMovement()
     {
-        // Get the player object
-        GameObject player = GameObject.FindGameObjectWithTag("Player");
-
-        // Calculate the direction from the ball to the player
-        Vector2 direction = (player.transform.position - transform.position).normalized;
+        // Get a random direction for the ball
+        float randomAngle = UnityEngine.Random.Range(-45f, 45f);
+        Vector2 direction = Quaternion.Euler(0, 0, randomAngle) * Vector2.right;
 
         // Apply the initial force and set the current speed
         _rb.AddForce(direction * ballSpeed, ForceMode2D.Impulse);
