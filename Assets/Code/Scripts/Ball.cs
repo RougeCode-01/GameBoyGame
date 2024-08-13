@@ -6,6 +6,7 @@ public class Ball : MonoBehaviour
 {
     [SerializeField] private float ballSpeed; // Speed of the ball
     [SerializeField] private float ballMaxSpeed; // Maximum speed of the ball
+    [SerializeField] private float respawnDelay = 2.0f; // Delay before the ball respawns
     private float currentSpeed; // Current speed of the ball
 
     private Rigidbody2D _rb; // Reference to the Rigidbody2D component
@@ -57,7 +58,7 @@ public class Ball : MonoBehaviour
         // Check if the ball collides with the bottom wall and the top wall
         if (other.CompareTag("BottomWall") || other.CompareTag("TopWall"))
         {
-            DeactivateBall();
+            StartCoroutine(DeactivateAndRespawnBall());
         }
     }
 
@@ -74,11 +75,14 @@ public class Ball : MonoBehaviour
         }
     }
 
-    private void DeactivateBall() // Deactivate the ball and reset its position
+    private IEnumerator DeactivateAndRespawnBall() // Deactivate the ball and reset its position
     {
         gameObject.SetActive(false);
+        yield return new WaitForSeconds(respawnDelay);
         transform.position = _startingPosition;
         _rb.velocity = Vector2.zero;
         currentSpeed = ballSpeed; // Reset the speed
+        gameObject.SetActive(true);
+        BallMovement();
     }
 }
