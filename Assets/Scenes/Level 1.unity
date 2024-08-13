@@ -177,7 +177,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8837456972284639530, guid: e62d1674bed120b49bfbc85850a043fb, type: 3}
       propertyPath: m_Name
-      value: Brick2
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837456972284639530, guid: e62d1674bed120b49bfbc85850a043fb, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -239,7 +243,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
       propertyPath: m_Name
-      value: Brick1 (2)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -334,7 +342,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6319527641654759080, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
       propertyPath: m_Name
-      value: Brick3
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6319527641654759080, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     - target: {fileID: 8248803599955446744, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
       propertyPath: m_LocalPosition.x
@@ -477,7 +489,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
       propertyPath: m_Name
-      value: Brick1 (4)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -543,7 +559,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8837456972284639530, guid: e62d1674bed120b49bfbc85850a043fb, type: 3}
       propertyPath: m_Name
-      value: Brick2 (4)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837456972284639530, guid: e62d1674bed120b49bfbc85850a043fb, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -645,7 +665,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8837456972284639530, guid: e62d1674bed120b49bfbc85850a043fb, type: 3}
       propertyPath: m_Name
-      value: Brick2 (2)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837456972284639530, guid: e62d1674bed120b49bfbc85850a043fb, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -707,7 +731,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
       propertyPath: m_Name
-      value: Brick1 (3)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -763,7 +791,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6319527641654759080, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
       propertyPath: m_Name
-      value: Brick3 (3)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6319527641654759080, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     - target: {fileID: 8248803599955446744, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
       propertyPath: m_LocalPosition.x
@@ -930,7 +962,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8837456972284639530, guid: e62d1674bed120b49bfbc85850a043fb, type: 3}
       propertyPath: m_Name
-      value: Brick2 (1)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837456972284639530, guid: e62d1674bed120b49bfbc85850a043fb, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1032,7 +1068,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
       propertyPath: m_Name
-      value: Brick1 (1)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1098,7 +1138,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8837456972284639530, guid: e62d1674bed120b49bfbc85850a043fb, type: 3}
       propertyPath: m_Name
-      value: Brick2 (3)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837456972284639530, guid: e62d1674bed120b49bfbc85850a043fb, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1160,7 +1204,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
       propertyPath: m_Name
-      value: Brick1
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1222,7 +1266,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
       propertyPath: m_Name
-      value: Brick1 (5)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 4833475535808079955, guid: 460a33f0039a58a4baf978de47ac2c1b, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1244,7 +1292,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6319527641654759080, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
       propertyPath: m_Name
-      value: Brick3 (1)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6319527641654759080, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     - target: {fileID: 8248803599955446744, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1310,7 +1362,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6319527641654759080, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
       propertyPath: m_Name
-      value: Brick3 (2)
+      value: Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6319527641654759080, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     - target: {fileID: 8248803599955446744, guid: 57410ddea13f05b42a3ff6a7f4358837, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1496,25 +1552,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1670427517623169961, guid: eb7a737f00926f24ab85101330da552d, type: 3}
-      propertyPath: m_SortingOrder
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 2657086364194750735, guid: eb7a737f00926f24ab85101330da552d, type: 3}
       propertyPath: m_Name
       value: Ball
-      objectReference: {fileID: 0}
-    - target: {fileID: 2657086364194750735, guid: eb7a737f00926f24ab85101330da552d, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6217640050503591413, guid: eb7a737f00926f24ab85101330da552d, type: 3}
-      propertyPath: m_BodyType
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6217640050503591413, guid: eb7a737f00926f24ab85101330da552d, type: 3}
-      propertyPath: m_GravityScale
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7842312833684781239, guid: eb7a737f00926f24ab85101330da552d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1555,14 +1595,6 @@ PrefabInstance:
     - target: {fileID: 7842312833684781239, guid: eb7a737f00926f24ab85101330da552d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9061079517784680206, guid: eb7a737f00926f24ab85101330da552d, type: 3}
-      propertyPath: ballSpeed
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 9061079517784680206, guid: eb7a737f00926f24ab85101330da552d, type: 3}
-      propertyPath: ballMaxSpeed
-      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

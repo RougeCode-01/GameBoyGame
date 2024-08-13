@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Brick : MonoBehaviour
+public class Brick : MonoBehaviour, IBrick
 {
     [SerializeField] private int hitPoints = 1;
 
