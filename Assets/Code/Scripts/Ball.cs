@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using UnityEngine;
 
@@ -16,7 +15,8 @@ public class Ball : MonoBehaviour
     {
         AudioManager.instance.PlaySFX("ShootingBall");
         _rb = GetComponent<Rigidbody2D>();
-        _startingPosition = transform.position;
+        _startingPosition = Vector2.zero; // Set starting position to (0, 0, 0)
+        transform.position = _startingPosition; // Ensure the ball starts at the starting position
         BallMovement();
     }
 
@@ -72,6 +72,15 @@ public class Ball : MonoBehaviour
         else if (other.gameObject.CompareTag("Player") || other.gameObject.CompareTag("Enemy"))
         {
             RandomAngle();
+        }
+        else if (other.gameObject.CompareTag("Brick"))
+        {
+            Brick brick = other.gameObject.GetComponent<Brick>();
+            if (brick != null)
+            {
+                brick.TakeDamage(1);
+            }
+
         }
     }
 

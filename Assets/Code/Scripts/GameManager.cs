@@ -5,19 +5,20 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    public List<GameObject> bricks;
+    public List<Brick> bricks;
 
     void Start()
     {
-        bricks = GameObject.FindGameObjectsWithTag("Brick1").ToList();
-        bricks.AddRange(GameObject.FindGameObjectsWithTag("Brick2"));
-        bricks.AddRange(GameObject.FindGameObjectsWithTag("Brick3"));
+        // Find all brick objects in the scene and add them to the bricks list
+        bricks = FindObjectsOfType<Brick>().ToList();
     }
 
     void Update()
     {
+        // Remove destroyed bricks from the list
         bricks.RemoveAll(brick => brick == null);
 
+        // Load the boss scene if all bricks are destroyed
         if (bricks.Count == 0)
         {
             LoadBossScene();

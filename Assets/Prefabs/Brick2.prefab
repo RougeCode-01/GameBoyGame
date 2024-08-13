@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 2221880366053198266}
   - component: {fileID: 2116616358442752949}
   - component: {fileID: 2992433503820240697}
-  - component: {fileID: 3918117579888487875}
   - component: {fileID: -6711666966411980039}
+  - component: {fileID: 3602630300350833059}
   m_Layer: 0
   m_Name: Brick2
   m_TagString: Brick2
@@ -28,7 +28,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8837456972284639530}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.188, y: -0.1191833, z: 0.009569254}
   m_LocalScale: {x: 0.24692401, y: 0.0566048, z: 0.1444}
   m_ConstrainProportionsScale: 0
@@ -85,19 +85,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &3918117579888487875
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8837456972284639530}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 232c5729a0ebfb145bef04ba40902ea4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hitPoints: 2
 --- !u!61 &-6711666966411980039
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -143,3 +130,16 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &3602630300350833059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8837456972284639530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76f1d51a0ac506b4cb6cd44d93cfe2c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitPoints: 1
