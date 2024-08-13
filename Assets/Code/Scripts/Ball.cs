@@ -7,21 +7,26 @@ public class Ball : MonoBehaviour
     [SerializeField] private float ballSpeed; // Speed of the ball
     [SerializeField] private float ballMaxSpeed; // Maximum speed of the ball
     private float currentSpeed; // Current speed of the ball
-    
+
     private Rigidbody2D _rb; // Reference to the Rigidbody2D component
-    private Vector2 _sartingPosition; // Starting position of the ball
-    
+    private Vector2 _startingPosition; // Starting position of the ball
+
     private void OnEnable()
     {
         AudioManager.instance.PlaySFX("ShootingBall");
         _rb = GetComponent<Rigidbody2D>();
-        _sartingPosition = transform.position;
+        _startingPosition = transform.position;
         BallMovement();
     }
 
     private void FixedUpdate()
     {
-        //clamp the speed of the ball
+        // Task 1
+        ClampBallSpeed();
+    }
+
+    private void ClampBallSpeed()
+    {
         if (_rb.velocity.magnitude > ballMaxSpeed)
         {
             _rb.velocity = _rb.velocity.normalized * ballMaxSpeed;
@@ -42,22 +47,24 @@ public class Ball : MonoBehaviour
         // Set the current speed to the base speed
         currentSpeed = ballSpeed;
     }
+
     private void RandomAngle()
     {
         // Add a slight random angle to the direction
         float randomAngle = UnityEngine.Random.Range(-10f, 10f);
         _rb.velocity = Quaternion.Euler(0, 0, randomAngle) * _rb.velocity;
     }
-    private void OnTriggerEnter2D(Collider2D other)// Check if the ball collides with the bottom wall and the top wall
+
+    private void OnTriggerEnter2D(Collider2D other) // Check if the ball collides with the bottom wall and the top wall
     {
         // Check if the ball collides with the bottom wall and the top wall
         if (other.CompareTag("BottomWall") || other.CompareTag("TopWall"))
         {
-           DeactivateBall();
+            DeactivateBall();
         }
     }
-    
-    private void OnCollisionEnter2D(Collision2D other)// Check if the ball collides with the player paddle
+
+    private void OnCollisionEnter2D(Collision2D other) // Check if the ball collides with the player paddle
     {
         AudioManager.instance.PlaySFX("BallBounces");
         if (other.gameObject.CompareTag("Wall") || other.gameObject.CompareTag("TopWall"))
@@ -69,11 +76,12 @@ public class Ball : MonoBehaviour
             RandomAngle();
         }
     }
-    
-    private void DeactivateBall()// Deactivate the ball and reset its position
+
+    private void DeactivateBall() // Deactivate the ball and reset its position
     {
         gameObject.SetActive(false);
-        transform.position = _sartingPosition;
+        transform.position = _startingPosition;
         _rb.velocity = Vector2.zero;
+        currentSpeed = ballSpeed; // Reset the speed
     }
 }
